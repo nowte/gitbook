@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "initiated_at": "2026-05-16T12:50:44.4631344Z",
+  "rules": {
+    "protected_branches": [
+      "main",
+      "master",
+      "release"
+    ],
+    "require_commit_msg": true
+  }
+}
